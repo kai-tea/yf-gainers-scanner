@@ -65,7 +65,12 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Python.test">
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.yfinance">
     <configuration name="batch_download" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="yf-gainers-scanner" />
       <option name="ENV_FILES" value="" />
@@ -112,7 +117,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="yfinance" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="yf-gainers-scanner" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -126,7 +131,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/yfgainers/test.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/yfinance.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -137,7 +142,7 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.test" />
+        <item itemvalue="Python.yfinance" />
         <item itemvalue="Python.batch_download" />
         <item itemvalue="Python.cli" />
       </list>
@@ -168,7 +173,7 @@
       <workItem from="1760685913237" duration="4976000" />
       <workItem from="1762026737394" duration="3406000" />
       <workItem from="1762182858247" duration="599000" />
-      <workItem from="1762463037864" duration="451000" />
+      <workItem from="1762463037864" duration="752000" />
     </task>
     <servers />
   </component>
