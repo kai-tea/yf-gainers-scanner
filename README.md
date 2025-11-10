@@ -1,2 +1,2 @@
 # yf-gainers-scanner
-Scans Stocks Market for top percentile stock gainers using yFinance API.
+Scans Nasdaq Tickers for top percentile stock gainers using yFinance API.
