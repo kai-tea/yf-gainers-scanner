@@ -6,3 +6,5 @@
 /src/*
 !/src/yfinance.py
 !/data/**
+
+.DS_Store
