@@ -2,6 +2,7 @@
 !/.gitignore
 !/README.md
 !/src/
+!/data/
+/src/*
 !/src/yfinance.py
-!/data
 !/data/**
