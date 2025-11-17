@@ -1,6 +1,7 @@
-*
-!*/
-!.gitignore
+/*
+!/.gitignore
 !/README.md
 !/src/
 !/src/**
+!/data
+!/data/**
