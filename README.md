@@ -2,6 +2,7 @@
 
 A small side project I built to practice working with third-party APIs, and basic data wrangling.  
 It downloads historical OHLCV data with [yfinance](https://github.com/ranaroussi/yfinance), keeps CSVs up to date, and applies a few simple filters so I can filter out recent Stock gainers.
+
 ---
 
 ## Why I built this
